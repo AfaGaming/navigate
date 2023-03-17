@@ -1,0 +1,41 @@
+.big-heading {
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 50px;
+}
+
+.content {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.link {
+    font-size: 40px;
+    text-decoration: none;
+    border: 10px transparent;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.view-code-link {
+    text-align: left;
+    padding-left: 70px;
+}
+
+.view-website-link {
+    align-content: center;
+    padding-left: 200px
+}
+
+.download-code-link {
+    padding-left: 200px;
+}
+
+.last-item {
+    padding-bottom: 100px;
+}
